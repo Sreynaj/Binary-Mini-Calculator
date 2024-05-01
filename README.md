@@ -6,7 +6,7 @@ Lecture: Computer Architecture
 Lecturer: Lay Vathana
 
 Team Member: 
-- Chhort Chhorraseth @
+- Chhort Chhorraseth @chhortchhoraseth@gmail.com
 - Keb Sreynaj @kebsreynaj2@gmail.com
 - Oeun Panhayuth - @lorena.kreiger8@gmail.com
 - Phan Reach - @reach4phan@gmail.com
