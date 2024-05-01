@@ -1,7 +1,10 @@
 # Binary-Mini-Calculator
 Project Report – Mini Calculator ( 4-bits Calculator)
+
 Lecture: Computer Architecture
+
 Lecturer: Lay Vathana
+
 Team Member: 
 - Chhort Chhorraseth @
 - Keb Sreynaj @kebsreynaj2@gmail.com
