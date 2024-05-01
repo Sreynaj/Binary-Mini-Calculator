@@ -69,7 +69,7 @@ As we now have our integrated circuit of full and half adder, let's build our 4-
 A half-subtractor circuit is used to perform a binary subtraction of two single-bit binary numbers and it has two inputs, A and B , and two outputs, DIFFERENCE and BORROW. 
 ## Truth table 
 
-<img width="411" alt="image" src="https://github.com/Sreynaj/Binary-Mini-Calculator/assets/101303611/e0e5abb2-42f5-4aa0-9514-3f0cf0fb9a6d">
+<img width="411" alt="image" src="https://github.com/Sreynaj/Binary-Mini-Calculator/assets/101303611/1275ba81-05f2-4854-bcb4-e72e35ee93ee">
 
 - Diff = A’B + AB’
 - Borrow = A’B
