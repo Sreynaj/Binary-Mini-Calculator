@@ -17,7 +17,7 @@ The mini calculator logic gate circuit project aims to implement basic arithmeti
 
 
  # II. Addition Operation
-To build an 8-bits addition circuit, we'll need to cascade 1 half-adder and 7 full-adders together.
+To build an 4-bits addition circuit, we'll need to cascade 1 half-adder and 3 full-adders together.
 Let's start by designing a half adder, which adds two single binary digits (0 or 1) and produces the sum and carry out. Then, we'll extend it to a full adder, which adds two bits along with a carry-in and produces a sum and carry-out.
 
 ## 2.1 Half-Adder
