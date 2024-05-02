@@ -69,7 +69,7 @@ As we now have our integrated circuit of full and half adder, let's build our 4-
 A half-subtractor circuit is used to perform a binary subtraction of two single-bit binary numbers and it has two inputs, A and B , and two outputs, DIFFERENCE and BORROW. 
 ## Truth table 
 
-<img width="411" alt="image" src="https://github.com/Sreynaj/Binary-Mini-Calculator/assets/101303611/1275ba81-05f2-4854-bcb4-e72e35ee93ee">
+<img width="411" alt="image" src="https://github.com/phanreach/logic-gate/blob/main/half-subtractor2.png">
 
 - Diff = A’B + AB’
 - Borrow = A’B
@@ -81,7 +81,7 @@ A half-subtractor circuit is used to perform a binary subtraction of two single-
 A full subtractor is a combination of circuits that performs subtraction of two bits. This circuit has three inputs and two outputs. The three inputs A, B and Bin, denote the minuend, subtrahend, and previous borrow, respectively. The two outputs, D and Bout represent the difference and output borrow.   
 ## Truth table:
 
-<img width="411" alt="image" src="https://github.com/Sreynaj/Binary-Mini-Calculator/assets/101303611/253dab16-db39-43b2-a80d-7b1339ffa6b3">
+<img width="411" alt="image" src="https://github.com/phanreach/logic-gate/blob/main/fullsubtractor.png">
 
 ## Logic circuit for full subtractor
 <img width="711" alt="image" src="https://github.com/Sreynaj/Binary-Mini-Calculator/assets/101303611/bf9a0615-bb52-41df-9b3f-a5c2aa3c2f9c">
