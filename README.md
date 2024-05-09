@@ -86,6 +86,11 @@ A full subtractor is a combination of circuits that performs subtraction of two 
 ## Logic circuit for full subtractor
 <img width="711" alt="image" src="https://github.com/Sreynaj/Binary-Mini-Calculator/assets/101303611/bf9a0615-bb52-41df-9b3f-a5c2aa3c2f9c">
 
+# III Multiplication Operation 
+A binary multiplier is a combinational logic circuit used in digital systems to perform the multiplication of two binary numbers. The multiplication of two binary numbers can be performed by using two common methods, namely partial product addition and shifting, and using parallel multipliers. This multiplication is implemented by combinational circuit such that the multiplication is performed with AND gates whereas the addition is carried out by using half adders as shown in figure.
+
+
+
 
 
 
