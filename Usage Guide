@@ -1,0 +1,39 @@
+# Binary-Mini-Calculator Guide
+
+## Functionality
+Performs basic arithmetic operations (addition, subtraction, multiplication) on 4-bit binary numbers. (Note: Division functionality seems absent based on available information)
+
+## Requirements
+- Logicly software (https://logic.ly/demo/)
+- Downloaded Binary-Mini-Calculator project files (logic circuit files)
+
+## Instructions
+
+1. Download the Files:
+
+- Locate the Binary-Mini-Calculator repository.
+
+2. Launch Logicly software.
+- Within Logicly, locate the downloaded project files (usually with a .logicly extension).
+- Open the appropriate file to load the Binary-Mini-Calculator circuit.
+
+3. Input Binary Numbers:
+
+- Logicly uses switches or input pins within the circuit diagram to represent the binary numbers.
+- Locate the designated switches or input pins for the two 4-bit binary numbers (abeled A1-A4 and B1-B4).
+- Click on a switch to toggle its state between 0 and 1, representing the corresponding binary digit of your input number.
+
+4. Calculate and View Result:
+
+Locate the output pins or designated display area within the Logicly circuit diagram representing the result. The binary result of the operation should appear on the designated output pins or display area within the circuit diagram.
+
+
+##Additional Information
+
+- Refer to the README.md file within the downloaded project for any specific instructions or explanations related to the Binary-Mini-Calculator's functionality in Logicly.
+- Explore Logicly's documentation or tutorials for a deeper understanding of using switches, input pins, and output displays within their software.
+
+##Limitations
+
+- This calculator handles 4-bit binary numbers only.
+- Converting between binary and decimal might require additional tools or manual calculations.
