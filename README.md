@@ -15,6 +15,8 @@ Team Member:
 # I. Introduction/Objectives
 The mini calculator logic gate circuit project aims to implement basic arithmetic operations (addition, subtraction, multiplication, and division) using logic gates such as AND, OR, XOR, and NOT gates. This report outlines the implementation details, including truth tables and circuit diagrams, for each operation.
 
+<img width="1000" alt="image" src="https://github.com/Sreynaj/Binary-Mini-Calculator/assets/101303611/f3acff8f-6c72-429a-99c6-09fb427cd9b8">
+
 
  # II. Addition Operation
 To build an 4-bits addition circuit, we'll need to cascade 1 half-adder and 3 full-adders together.
